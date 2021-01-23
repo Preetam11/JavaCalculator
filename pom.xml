@@ -22,7 +22,7 @@
  <plugins>
      <plugin> 
 
-                <!-- Building an executable ja -->
+                <!-- Building an executable jar -->
 
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
